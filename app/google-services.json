@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "394871640107",
+    "project_id": "contentrecommendationapp",
+    "storage_bucket": "contentrecommendationapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394871640107:android:d29ca456c5bdc96c9a1a6e",
+        "android_client_info": {
+          "package_name": "com.google.firebase.codelabs.recommendations"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDym6eIJiYuj1-D-RrmFqY--Q08sOgdTyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
